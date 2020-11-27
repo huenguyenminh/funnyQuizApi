@@ -5,7 +5,7 @@
       "type": "meo",
       "qText": "Biển nào không có nước mà vẫn có cá?",
       "qImg": "https://phmillennia.com/wp-content/uploads/2019/04/Photo-by-Anastasia-Taioglou-on-Unsplash-scaled.jpg",
-      "aText": ["biển cấm câu cá", "bien cam cau ca", "cam cau ca"],
+      "aText": ["Biển cấm câu cá", "bien cam cau ca", "cam cau ca"],
       "aImg": "https://previews.123rf.com/images/cvetinaivanova/cvetinaivanova1710/cvetinaivanova171000028/88618464-no-fishing-sing.jpg"
     },
     {
@@ -19,9 +19,9 @@
     {
         "id": 3,
         "type": "meo",
-        "qText": "Mẹ trọc đầu, còn gai góc?",
+        "qText": "Mẹ trọc đầu, còn gai góc? Đó là quả gì?",
         "qImg": "https://thuviencaudo.net/themes/web/images/thu-vien-cau-do.png",
-        "aText": ["quả mít", "qua mit"],
+        "aText": ["Quả mít", "qua mit"],
         "aImg": "https://thumbs.dreamstime.com/b/alphabet-cute-fruits-letter-j-jackfruit-letters-to-z-cartoon-vector-isolated-white-background-133529663.jpg"
     },
     {
@@ -45,15 +45,15 @@
       "type": "meo",
       "qText": "Con mèo nào cực kỳ sợ chuột? ",
       "qImg": "https://cdn5.vectorstock.com/i/1000x1000/64/89/dwarf-miniature-type-cats-domestic-cat-breeds-and-vector-27946489.jpg",
-      "aText": ["Doremon", "do re mon", "doaremon"],
+      "aText": ["Doremon", "do re mon", "doaremon", "Mèo máy Doaremon"],
       "aImg": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/dbba9f03-b9d8-49b5-b201-ac1363c3eb21/ddahmqf-72e32060-6f57-44fa-b24d-87450f8479e2.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOiIsImlzcyI6InVybjphcHA6Iiwib2JqIjpbW3sicGF0aCI6IlwvZlwvZGJiYTlmMDMtYjlkOC00OWI1LWIyMDEtYWMxMzYzYzNlYjIxXC9kZGFobXFmLTcyZTMyMDYwLTZmNTctNDRmYS1iMjRkLTg3NDUwZjg0NzllMi5wbmcifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6ZmlsZS5kb3dubG9hZCJdfQ.sqXinRp28MVsrCdt7j3YDH1yW6Z4O8e2SqvdVjToE4E"
   },
   {
       "id": 7,
       "type": "meo",
-      "qText": "Con chuột nào cực kỳ sợ con mèo?",
+      "qText": "Con chuột nào cực kỳ sợ con mèo???",
       "qImg": "https://www.homestratosphere.com/wp-content/uploads/2019/03/types-of-mice-mar6.jpg",
-      "aText": ["tất cả", "tat ca", "chuột nào cũng sợ mèo", "chuot nao cung so"],
+      "aText": ["Tất cả chuột đều sợ mèo", "tat ca", "chuột nào cũng sợ mèo", "chuot nao cung so"],
       "aImg": "https://img.huffingtonpost.com/asset/5c9a85a62300004f01e9ff67.jpeg?ops=scalefit_630_noupscale"
   },
   {
@@ -61,8 +61,32 @@
     "type": "meo",
     "qText": "Một ly thủy tinh đựng đầy nước, làm thế nào để lấy nước dưới đáy ly mà không đổ nước ra ngoài ?",
     "qImg": "https://www.sciencenews.org/wp-content/uploads/2018/11/112418_water_feat_free.jpg",
-    "aText": ["dùng ống hút", "dung ong hut", "ống hút", "ong hut"],
+    "aText": ["Dùng ống hút", "dung ong hut", "ống hút", "ong hut"],
     "aImg": "https://previews.123rf.com/images/popovaphoto/popovaphoto1105/popovaphoto110500056/9625629-water-glass-with-a-blue-straw-on-white-background.jpg"
+  },
+  {
+    "id": 9,
+    "type": "meo",
+    "qText": "Có mắt mà chẳng có tai, Thịt trong thì trắng, da ngoài thì xanh, Khi trẻ ngủ ở trên cành, Lúc già mở mắt – hóa thành quả ngon.",
+    "qImg": "https://i.ytimg.com/vi/RAJ-sGtIKzQ/maxresdefault.jpg",
+    "aText": ["Quả na", "qua na", "quả na"],
+    "aImg": "https://media.cooky.vn/images/blog-2016/meo-chon-na-khong-tam-hoa-chat-tram-qua-ngon-nhu-mot-1(1).jpg"
+  },
+  {
+    "id": 10,
+    "type": "meo",
+    "qText": "Quả gì hạt chứa màn đêm, Ruột da khi chín chứa thêm mặt trời ?",
+    "qImg": "https://cdn-www.vinid.net/2019/08/Top-21-loai-qua-ba-bau-nen-an-trong-thoi-ky-mang-thai.jpg",
+    "aText": ["Quả gấc", "qua gac", "quả gấc"],
+    "aImg": "https://kenhz.net/wp-content/uploads/2019/09/hat-qua-gac.jpg"
+  },
+  {
+    "id": 11,
+    "type": "meo",
+    "qText": "Quả gì trong bụng toàn hơi Bạn cùng sân cỏ luôn buồn vui chân người ?",
+    "qImg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQ-hjQpDjesjDDTj02o4mw_utE8AP4yzt1hw&usqp=CAU",
+    "aText": ["Quả bóng đá", "qua bong da", "bong da"],
+    "aImg": "https://thethaotuoitre.com/wp-content/uploads/2018/12/tim-hieu-ve-trong-luong-qua-bong-da.jpg"
   }
   
   ]
